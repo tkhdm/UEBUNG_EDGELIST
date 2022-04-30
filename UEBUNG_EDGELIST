@@ -1,0 +1,7 @@
+id,from,to,weight,relation
+tom,sophia,2,friend
+sophia,tom,2,friend
+jürgen,tom,3,family
+tom,jürgen,3,family
+ingrid,tom,3,family
+tom,ingrid,3,family
